@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   title: "Taufiq Khan – Full-Stack Developer",
   description:
     "I'm Taufiq Khan, a full-stack web developer building modern, fast, and scalable web applications using MERN stack, Next.js, and TypeScript.",
-  authors: [{ name: "Taufiq Khan", url: "https://yourdomain.com" }],
+  authors: [{ name: "Taufiq Khan", url: "https://taufiqkhan.vercel.app" }],
   keywords: [
     "Full-Stack Developer",
     "React Developer",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   creator: "Taufiq Khan",
   publisher: "Taufiq Khan",
   robots: "index, follow",
-  metadataBase: new URL("https://yourdomain.com"),
+  metadataBase: new URL("https://taufiqkhan.vercel.app"),
 };
 
 export default function RootLayout({
