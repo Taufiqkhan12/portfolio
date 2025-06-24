@@ -17,7 +17,7 @@ import { SiExpress } from "react-icons/si";
 export const socialLinks = [
   {
     icon: PiReadCvLogoFill,
-    href: "https://drive.google.com/file/d/1IvCck14qdppQ05N6dp10F2GJhMF5Ihl8/view?usp=drive_link",
+    href: "https://drive.google.com/file/d/1AkiUvgJTtOy8w0JKj-DPvf-0o5_nmuwR/view?usp=drive_link",
     label: "Resume",
   },
   { icon: FaGithub, href: "https://github.com/Taufiqkhan12", label: "GitHub" },
@@ -31,36 +31,35 @@ export const socialLinks = [
 
 export const projects = [
   {
-    name: "DevLink",
+    name: "Cabon",
     description:
-      "A developer-focused social platform to share projects, connect, and collaborate.",
-    github: "https://github.com/username/devlink",
-    live: "https://devlink-demo.vercel.app",
-    tech: ["React", "Node.js", "Express", "MongoDB", "TailwindCSS"],
+      "Real-Time Ride Booking App, map-based ride-booking platform built to connect passengers with nearby drivers—seamlessly and instantly. The app allows users to request a ride, track their driver's live location, and make secure digital payments and more, all from a clean and intuitive interface.",
+    github: "https://github.com/taufiqkhan12/cabon",
+    live: "https://demo.vercel.app",
+    tech: [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Tailwindcss",
+      "Socket.io",
+    ],
   },
   {
-    name: "QuickCart",
+    name: "Dropf",
     description:
-      "An e-commerce web app with cart, payments, and admin dashboard.",
-    github: "https://github.com/username/quickcart",
-    live: "https://quickcart.shop",
-    tech: ["React", "Redux", "Node.js", "MongoDB", "Stripe"],
+      "Dropf lets users instantly create or join a private room to share files in real time. It’s fast, secure, and doesn’t require sign-up. Files stay accessible even if the sender leaves, thanks to MongoDB-based persistence. Simple, reliable, and perfect for quick transfers.",
+    github: "https://github.com/Taufiqkhan12/dropf",
+    live: "https://demo.vercel.app",
+    tech: ["React", "Socket.io", "Node.js", "MongoDB", "Tailwindcss"],
   },
   {
-    name: "TaskZen",
+    name: "My watch box",
     description:
-      "A productivity tool for organizing tasks, notes, and project goals.",
-    github: "https://github.com/username/taskzen",
-    live: "https://taskzen.io",
-    tech: ["Next.js", "MongoDB", "Tailwind", "Framer Motion"],
-  },
-  {
-    name: "Portfolio CMS",
-    description:
-      "A lightweight headless CMS built to manage personal portfolios or blogs.",
-    github: "https://github.com/username/portfolio-cms",
-    live: "https://cms-demo.vercel.app",
-    tech: ["React", "Express", "MongoDB", "JWT", "Styled Components"],
+      "MyWatchBox is a movie search app where you can easily find movies by typing their name. It shows you movie posters, titles, release dates, and short descriptions. users can add or remove movie from watchlist The app uses a public movie database to get the latest movie details. It's made to be clean, fast, and easy to use for everyone who loves movies.",
+    github: "https://github.com/Taufiqkhan12/mywatchbox",
+    live: "https://mywatchbox.vercel.app/",
+    tech: ["React", "Css"],
   },
 ];
 
@@ -92,6 +91,7 @@ export const experience = [
       "PostgreSQL",
       "Nodejs",
       "Express",
+      "Cloudinary",
     ],
   },
 ];
