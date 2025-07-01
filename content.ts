@@ -50,7 +50,7 @@ export const projects = [
     description:
       "Dropf lets users instantly create or join a private room to share files in real time. It’s fast, secure, and doesn’t require sign-up. Files stay accessible even if the sender leaves, thanks to MongoDB-based persistence. Simple, reliable, and perfect for quick transfers.",
     github: "https://github.com/Taufiqkhan12/dropf",
-    live: "https://demo.vercel.app",
+    live: "https://dropf.vercel.app",
     tech: ["React", "Socket.io", "Node.js", "MongoDB", "Tailwindcss"],
   },
   {
