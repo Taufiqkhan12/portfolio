@@ -58,7 +58,7 @@ export const projects = [
     description:
       "MyWatchBox is a movie search app where you can easily find movies by typing their name. It shows you movie posters, titles, release dates, and short descriptions. users can add or remove movie from watchlist The app uses a public movie database to get the latest movie details. It's made to be clean, fast, and easy to use for everyone who loves movies.",
     github: "https://github.com/Taufiqkhan12/mywatchbox",
-    live: "https://mywatchbox.vercel.app/",
+    live: "https://mywatchbox.netlify.app/",
     tech: ["React", "Css"],
   },
 ];
