@@ -31,7 +31,7 @@ export const socialLinks = [
 
 export const projects = [
   {
-    name: "Cabon",
+    name: "Cabon (on going)",
     description:
       "Real-Time Ride Booking App, map-based ride-booking platform built to connect passengers with nearby drivers—seamlessly and instantly. The app allows users to request a ride, track their driver's live location, and make secure digital payments and more, all from a clean and intuitive interface.",
     github: "https://github.com/taufiqkhan12/cabon",
